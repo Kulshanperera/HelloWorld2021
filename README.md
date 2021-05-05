@@ -5,3 +5,10 @@ Java
 HTML
 CSS
 JavaScript
+public void main(strings args[]){
+
+for(i=0;i=>5:i++){
+  System.out.println("");
+}
+
+}//printing star pattern
